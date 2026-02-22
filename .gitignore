@@ -1,0 +1,9 @@
+# IntelliJ files
+.idea/
+
+# Obsidian settings https://publish.obsidian.md/git-doc/Tips-and-Tricks
+.obsidian/
+
+# OS settings and caches
+.trash/
+.DS_Store
