@@ -1,11 +1,9 @@
 # IntelliJ files
 .idea/
 
-# Source: https://publish.obsidian.md/git-doc/Tips-and-Tricks
-# workspace cache
-.obsidian/workspace.json
-# workspace cache specific to mobile devices
-.obsidian/workspace-mobile.json
+# Obsidian settings https://publish.obsidian.md/git-doc/Tips-and-Tricks
+.obsidian/
+
 # OS settings and caches
 .trash/
 .DS_Store
