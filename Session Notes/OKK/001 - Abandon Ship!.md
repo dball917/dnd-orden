@@ -3,11 +3,7 @@
 ## Session Info
 
 * **Date**: 2026-02-10
-* **Characters**:
-  * [[Barabaras]] - Vince
-  * [[Grafgar]] - Steve
-  * [[Glaucon]] - Courtney
-  * [[Holly]] - Greg
+* **Characters**: [[Barabaras]], [[Grafgar]], [[Glaucon]], [[Holly]]
 * **Next Session**: Monday, March 16th
 
 ## Places Mentioned
@@ -102,15 +98,16 @@ _Shipwrecked._
 * We introduce ourselves to each other, search wreckage, then drag some of the corpses to bury them. Grafgar summons a
   shovel to help.
 * We gather & open coconuts then move on to explore together. Glaucon notices there are vines covering something
-  rectangular-ish. It's what's left of a building foundations/columns. It looks different from ruins in the [[Crest
-  Empire]].
+  rectangular-ish. It's what's left of a building foundations/columns. It looks different from ruins in the [[Empire of
+  Crest]].
 * We move toward the cooking fire. When we get to it, we see a gazebo tilted 60°. And there are 2 goblins and [[Handsome
   Tom]], [[Needles]] (female goblin), & [[Yeah Yeah]] (her brother).
 * We learn that the captain drove out of the shipping lane, probably to shake the pirates off our tail.
 * We agree to let the 3 pirates join us. They don't want to join until we talk to the others at the shipwreck ahead. We
   continue to the shipwreck and see 20ish people.
 * [[Shingles]] and several others from the mess hall survived.
-* Marine [[Graves]] has a wound that won't heal. 4 marines seem in charge. Barabaras cast L1 Identify to learn:
+* Marine [[Claiborne Grimes]] has a wound that won't heal. 4 marines seem in charge. Barabaras cast L1 Identify to
+  learn:
   * He's cursed with Necrotic Death, a spell cast on a weapon.
   * Can be cured with Greater Restoration.
 * We get the rest of our starting equipment from the shipwrecked crates.
