@@ -19,3 +19,7 @@ As any good swashbuckling adventure should be high on pulp and camp, those types
 
 ## Atmosphere
 These images should help give you a feel for the campaign.
+
+![[dragon ship.jpg]]
+![[island town.jpg]]
+![[port town.jpg]]
