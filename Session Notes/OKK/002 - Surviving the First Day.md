@@ -25,9 +25,9 @@ With everything moving in the right direction (mostly), we leave to track down t
 * Their pilgrimage is not prepared for this terrain. They were ready for plains. Started out with 12. Barabaras joins Carmac to look in the ship for a hatchet.
 * Glaucon meets Edrol (goliath), Marta, & Sara. Marta suggests we need leadership/direction. Glaucon mentions the pirates. She says it's the marines that'd need convincing.
 * The first-class passengers get up and approach the leader.
-  * Vivek: male, ruined red silks, sword
-  * Kara: woman, was in the sick bay
-  * Mr. Burtonfrank: man
+	* Vivek: male, ruined red silks, sword
+	* Kara: woman, was in the sick bay
+	* Mr. Burtonfrank: man
 * The woman demands food. The man motions toward his sword.
 * Glaucon diffuses the situation by saying that Marta will start making food.
 * Vivek tells Holly that the rats were large and that a marine ran after it.
@@ -39,10 +39,10 @@ With everything moving in the right direction (mostly), we leave to track down t
 * Carmac and Barabaras return with a toolbox.
 * Grafgar artifices a pot for Marta to use for cooking. Gran brings some herbs.
 * Our Objectives:
-  1. Convince the group to allow pirates to join
-  2. Cool hostilities
-  3. Get things setup to survive
-  4. Find Virgil and/or the rat
+	1. Convince the group to allow pirates to join
+	2. Cool hostilities
+	3. Get things setup to survive
+	4. Find Virgil and/or the rat
 * After getting food going, we head out to look for Virgil.
 * For 90 minutes or so, we think we're following tracks. We follow the cliffs. We find a gap in the wall, about 60ft deep canyon. We see several large rats. They hiss then attack us.
 * We kill 5 large rats. Holly drops unconscious during the fight, but we heal her back to consciousness.
